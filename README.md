@@ -11,4 +11,4 @@
 在这些成人平台上，用户可以通过影片类型、演员等多种条件，轻松找到自己喜欢的内容。每个视频都会详细列出播放时长、主演和画质等信息，确保用户享受最佳的观影体验。平台支持高清播放，并会根据网络情况自动调整画质，确保播放流畅。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/thuy20250708/thuy19 ）</span>
